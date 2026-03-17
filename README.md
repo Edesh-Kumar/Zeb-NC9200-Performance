@@ -1,7 +1,7 @@
 
 # Laptop Cooling Pad Analysis — Cinebench Benchmark
 
-Disclaimer : I have generated this read.md with AI but have audited before uploading. The findings were also cross verified before running through AI. This is just a more pretty representation of my findings to show the community. My main concern was the CPU , so didn't bothe with GPU benchmark, it already rnuns well within temperatures so felt no need
+Disclaimer : I have generated this with AI but have audited before uploading. The findings were also cross verified before running through AI. This is just a more pretty representation of my findings to show the community. My main concern was the CPU , so didn't bothe with GPU benchmark, it already rnuns well within temperatures so felt no need
 
 Does a cooling pad actually help? I ran Cinebench multi-core with and without a cooling pad on my laptop and logged hardware telemetry with HWiNFO64 to find out.
 
