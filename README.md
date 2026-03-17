@@ -1,10 +1,17 @@
+
 # Laptop Cooling Pad Analysis — Cinebench Benchmark
+
+Disclaimer : I have generated this read.md with AI but have audited before uploading. The findings were also cross verified before running through AI. This is just a more pretty representation of my findings to show the community. My main concern was the CPU , so didn't bothe with GPU benchmark, it already rnuns well within temperatures so felt no need
 
 Does a cooling pad actually help? I ran Cinebench multi-core with and without a cooling pad on my laptop and logged hardware telemetry with HWiNFO64 to find out.
 
-**[→ View the interactive dashboard](https://yourusername.github.io/cooling-pad-analysis)**
+**[→ View the interactive dashboard](https://edesh-kumar.github.io/Zeb-NC9200-Performance/)**
 
 ---
+
+## Cooling Pad
+**ZEBRONICS ZEB-NC9200** — Laptop Cooling Pad with 140mm RGB LED Fan
+[→ Product Link](https://www.zebronics.com/coolers/zeb-nc9200)
 
 ## Hardware
 - **CPU:** Intel Core i7-13650HX
